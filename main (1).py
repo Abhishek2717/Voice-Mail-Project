@@ -34,7 +34,7 @@ def send_email(receiver, subject, message):
 
 
 email_list = {
-    'rushika':'rushikasabharwal01@gmail.com',
+    'Sristi':'abhishekpal_19021082.cse@geu.ac.in',
     'Abhishek': 'isshuekumar@gmail.com',
     'lisa':'lisa@blackpink.com',
 
