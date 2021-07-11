@@ -25,7 +25,7 @@ def send_email(receiver, subject, message):
     server.starttls()
     server.login('isshuekumar@gmail.com', 'password')
     email = EmailMessage()
-    email['From'] = 'rushikasabharwa1@gmail.com'
+    email['From'] = 'abhishekpal.geu@gmail.com'
     email['To'] = receiver
     email['Subject'] = subject
     email.set_content(message)
